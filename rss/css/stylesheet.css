@@ -1,0 +1,15 @@
+/* CSS Document */
+.background{
+
+	background-image:url(../hudsonsbackground.jpg);
+	background-size:cover;
+}
+.cakeadvertisement{
+	width:200px;
+}
+.welcomeimg{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+}
