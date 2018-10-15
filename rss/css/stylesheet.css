@@ -20,6 +20,10 @@
 .img-thumbnail{
 	background-color:#ed2828;
 }
+.blog-header{
+	margin:0;
+	padding:0;
+}
 .text-body
 {
 	-webkit-transition-duration: 0.4s;
