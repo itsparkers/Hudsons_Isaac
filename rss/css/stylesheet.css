@@ -18,5 +18,9 @@
 	
 }
 .img-thumbnail{
-	color:red;
+	background-color:#ed2828;
+}
+.text-body
+{
+	color:white;
 }
